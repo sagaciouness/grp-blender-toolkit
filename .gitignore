@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+output/
+vendor/
+*.blend
+*.blend1
+*.grp
+*.dxp.bin
+*.dll
+*.exe
+*.zip
